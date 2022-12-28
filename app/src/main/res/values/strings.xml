@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Books authors</string>
+    <string name="btn_search">Cari</string>
+    <string name="input_hint">Masukkan Judul Buku</string>
+    <string name="instructions">Masukkan nama buku atau bagian dari buku tersebut untuk mencari buku beserta penulisnya.</string>
+</resources>
